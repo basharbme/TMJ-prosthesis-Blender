@@ -3,4 +3,4 @@
 (Open source TMJ Prosthesis)
 
 ![]
-(https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/eeeeerree-1.PNG)
+(https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGESblender/eeeeerree-1.PNG)
