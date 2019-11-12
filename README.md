@@ -2,7 +2,7 @@
 3d Printable modeled customized TMJ concept prosthesis for severe Traumatic Ankylosis cases in Blender
 (Open source TMJ Prosthesis)
 
-[Direct Link to project](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/tmjproject.rar)
+[Direct Link to tmjproject.blend ](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/tmjproject.rar)
 
 ![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/jjj67jjj.PNG)
 ![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/dddddd.PNG)
