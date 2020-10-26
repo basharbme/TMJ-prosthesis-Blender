@@ -1,5 +1,5 @@
 # TMJ-prosthesis-Blender
-3d Printable modeled customized TMJ concept prosthesis for severe Traumatic Ankylosis cases in Blender
+3d Printable modeled customized TMJ concept prosthesis for Ankylosis cases ,
 (Open source TMJ Prosthesis Customizable to patient anatomy)
 
 
