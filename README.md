@@ -11,7 +11,7 @@
 [Direct Link to tmjproject.blend ](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/tmjproject.rar)
 
 
-
+![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/tmjprosthesisBashar_Shami.PNG)
 ![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/jjj67jjj.PNG)
 ![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/dddddd.PNG)
 ![](https://github.com/basharbme/TMJ-prosthesis-Blender/blob/master/IMAGES%20blender/eeeeerree-1.PNG)
